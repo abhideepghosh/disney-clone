@@ -8,7 +8,7 @@ This project is created By Abhideep Ghosh.
 
 ## Backend Used: Firebase
 
-## Open [Disney+ UI](https://disneyplus-clone-eeebc.web.app/home) to view it in your browser.
+## Open [Disney+ UI](https://disneyplus-clone-eeebc.web.app/) to view it in your browser.
 
     Important Functionalities In The Project:
 
